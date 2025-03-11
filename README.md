@@ -21,7 +21,11 @@ $ npx create-docusaurus@latest my-website classic
 
 When prompted to select `JavaScript` and let the installer run.
 
-Once the install is completed close Powershell. You can then move the `.docusaurus`, `node_modules` folders to the repository folder. After you move those two folders you can delete the `my-website` folder.
+Once the install is completed close Powershell and navigate to the `my-website` folder it created.
+
+You can then move the `.docusaurus`, `node_modules` folders to the repository folder.
+
+After you move those two folders you can delete the `my-website` folder.
 
 ### Local Development
 
