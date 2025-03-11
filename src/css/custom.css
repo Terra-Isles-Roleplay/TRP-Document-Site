@@ -411,7 +411,6 @@
 .pf-icon-shopping-cart:before{content:"\1F6D2"}
 
 .glyph {
-    /*display: block;*/
     font-family: promptfont;
     font-size: 30pt;
     font-style: normal;
@@ -432,7 +431,17 @@ td {
 }
 
 th {
-	text-align: center;
+    text-align: center;
     font-size: 18pt;
 }
 
+#unmappable {
+    color: rgb(160,0,0);
+}
+
+/*#unknown {
+    color: rgb(200,100,0);
+}*/
+[data-theme='dark'] #unmappable {
+	color: rgb(255,30,30);
+}
