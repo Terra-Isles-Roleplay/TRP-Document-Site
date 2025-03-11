@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # Key Bindings
 
-There are a variety of key bindings that can be configured in FiveM. To configure your key bindings to how you like, or to view the current key bindings, open the **Pause Menu** while in the server and navigate to **Settings**. Then scroll down to **Key Bindings** and press select it to enter the Key Bindings menu. From there scroll down to **FiveM** and select it to move the cursor to the right side of the screen. From there you can change any key bingins you want by scrolling to the key binding you want and selecting it. Then just press the key you wish to replace the default with.
+There are a variety of key bindings that can be configured in FiveM. 
+
+# ***Key Bind configuration is <span id='unmappable'><u>required</u></span> as by default there are key conflicts between the different scripts.***
+
+To configure your key bindings to how you like, or to view the current key bindings, open the `Pause Menu` while in the server and navigate to `Settings`. Then scroll down to `Key Bindings` and press select it to enter the Key Bindings menu. From there scroll down to `FiveM` and select it to move the cursor to the right side of the screen. From there you can change any key bingins you want by scrolling to the key binding you want and selecting it. Then just press the key you wish to replace the default with.
 
 ## Default Key Bindings
 
@@ -699,6 +703,65 @@ Changing these keybinds require modification of the `.ini` file located in the `
 </table>
 
 ### SCN Radio
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <th>Function</th>
+	<th>Action</th>
+	<th>Keyboard</th>
+	<th>Controller Action</th>
+	<th>Xbox</th>
+	<th>Playstation</th>
+  </tr>
+  <tr>
+	<td>Show/Hide Radio</td>
+	<td>Press</td>
+	<td><span class='glyph'>\\</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>Activate Cursor</td>
+	<td>Press</td>
+	<td><span class='glyph'>\[</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Volume Up</td>
+	<td>Press</td>
+	<td><span class='glyph'>⑩</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Big Daddy's Vehicle Menu</td>
+	<td>Press</td>
+	<td><span class='glyph'>⑩</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>Luxart Vehicle Control</td>
+	<td>Hold</td>
+	<td><span class='glyph'>Ｉ</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>dpClothing</td>
+	<td>Hold</td>
+	<td><span class='glyph'>Ｙ</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+</table>
 
 ### Weapon Controls
 
