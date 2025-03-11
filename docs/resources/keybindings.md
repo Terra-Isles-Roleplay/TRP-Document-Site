@@ -12,7 +12,7 @@ This is a list of all the default key bindings used in the TRP FiveM Servers for
 
 Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parentheses next to the DualSense (PS5) version.
 
-<sup> <sub>\*Nintendo Pro Controller Only; Inputs untested, results may vary. </sub> </sup>
+<!--<sup> <sub>\*Nintendo Pro Controller Only; Inputs untested, results may vary. </sub> </sup>-->
 
 ### General
 <table cellspacing="0" cellpadding="0" border="0">
@@ -23,7 +23,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<th>Controller Action</th>
 	<th>Xbox</th>
 	<th>Playstation</th>
-	<th>Nintentdo*</th>
+	<!--<th>Nintentdo*</th>-->
   </tr>
   <tr>
 	<td>Navigate Menus</td>
@@ -32,7 +32,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>⊄</span></td>
 	<td><span class='glyph'>⇎</span></td>
-	<td><span class='glyph'>⊄</span></td>
+	<!--<td><span class='glyph'>⊄</span></td>-->
   </tr>
   <tr>
 	<td>Select (Menus)</td>
@@ -41,7 +41,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>⇓</span></td>
 	<td><span class='glyph'>⇣</span></td>
-	<td><span class='glyph'>⇒</span></td>
+	<!--<td><span class='glyph'>⇒</span></td>-->
   </tr>
   <tr>
 	<td>Back/Exit (Menus)</td>
@@ -50,9 +50,64 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>⇒</span></td>
 	<td><span class='glyph'>⇢</span></td>
-	<td><span class='glyph'>⇓</span></td>
+	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
-  
+  <tr>
+    <td>Toggle Ragdoll</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｕ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Toggle Handsup</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｉ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Push-to-talk</td>
+	<td>Hold</td>
+	<td><span class='glyph'>Ｎ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Cycle Voice Proximity</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｎ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Open Chat</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｔ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Cycle Chat Proximity</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｌ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Toggle User List (Scoreboard)</td>
+	<td>Press</td>
+	<td><span class='glyph'>␵</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
 </table>
 
 ### vMenu
@@ -65,7 +120,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<th>Controller Action</th>
 	<th>Xbox</th>
 	<th>Playstation</th>
-	<th>Nintentdo*</th>
+	<!--<th>Nintentdo*</th>-->
   </tr>
   <tr>
 	<td>Open Menu</td>
@@ -74,14 +129,13 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Hold</td>
     <td><span class='glyph'>⇺</span></td>
 	<td><span class='glyph'>∆ (⇦)</span></td>
-	<td><span class='glyph'>⇽</span></td>
+	<!--<td><span class='glyph'>⇽</span></td>-->
   </tr>
   <tr>
     <td>Toggle No Clip</td>
 	<td>Press</td>
 	<td><span class='glyph'>②</span></td>
     <td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -92,14 +146,12 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
     <td>Move Forward/Back</td>
 	<td>Hold</td>
 	<td> <span class='glyph'>Ｗ/Ｓ</span> </td>
     <td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -110,7 +162,6 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
     <td>Move Up/Down</td>
@@ -119,16 +170,13 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
     <td>Point</td>
 	<td>Press</td>
 	<td><span class='glyph'>Ｂ</span></td>
     <td>None</td>
-	<td>-</td>
-	<td>-</td>
-	<td>-</td>
+	<td colspan="2"><span class='glyph' id='smallglyph2'>↻</span></td>
   </tr>
 </table>
 
@@ -144,14 +192,13 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<th>Controller Action</th>
 	<th>Xbox</th>
 	<th>Playstation</th>
-	<th>Nintentdo*</th>
+	<!--<th>Nintentdo*</th>-->
   </tr>
   <tr>
 	<td>Open Menu</td>
 	<td>Press</td>
 	<td><span class='glyph'>②</span></td>
 	<td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -162,7 +209,6 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
 	<td>Back/Close Menu</td>
@@ -171,7 +217,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>⇒</span></td>
 	<td><span class='glyph'>⇢</span></td>
-	<td><span class='glyph'>⇓</span></td>
+	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
    <tr>
     <td>Navigate Up</td>
@@ -180,7 +226,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Press</td>
     <td><span class='glyph'>≻</span></td>
 	<td><span class='glyph'>↟</span></td>
-	<td><span class='glyph'>≻</span></td>
+	<!--<td><span class='glyph'>≻</span></td>-->
   </tr>
   <tr>
     <td>Navigate Down</td>
@@ -189,7 +235,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Press</td>
     <td><span class='glyph'>≽</span></td>
 	<td><span class='glyph'>↡</span></td>
-	<td><span class='glyph'>≽</span></td>
+	<!--<td><span class='glyph'>≽</span></td>-->
   </tr>
   <tr>
     <td>Navigate Left</td>
@@ -198,7 +244,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Press</td>
     <td><span class='glyph'>≺</span></td>
 	<td><span class='glyph'>↞</span></td>
-	<td><span class='glyph'>≺</span></td>
+	<!--<td><span class='glyph'>≺</span></td>-->
   </tr>
   <tr>
     <td>Navigate Right</td>
@@ -207,14 +253,13 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Press</td>
     <td><span class='glyph'>≼</span></td>
 	<td><span class='glyph'>↠</span></td>
-	<td><span class='glyph'>≼</span></td>
+	<!--<td><span class='glyph'>≼</span></td>-->
   </tr>
   <tr>
     <td>Input Backspace</td>
 	<td>Press</td>
 	<td><span class='glyph'>␷</span></td>
     <td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -230,7 +275,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<th>Controller Action</th>
 	<th>Xbox</th>
 	<th>Playstation</th>
-	<th>Nintentdo*</th>
+	<!--<th>Nintentdo*</th>-->
   </tr>
   <tr>
 	<td>Toggle Lights</td>
@@ -239,7 +284,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>≺</span></td>
 	<td><span class='glyph'>↞</span></td>
-	<td><span class='glyph'>≺</span></td>
+	<!--<td><span class='glyph'>≺</span></td>-->
   </tr>
   <tr>
 	<td>Toggle Siren</td>
@@ -248,7 +293,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>≽</span></td>
 	<td><span class='glyph'>↡</span></td>
-	<td><span class='glyph'>≽</span></td>
+	<!--<td><span class='glyph'>≽</span></td>-->
   </tr>
   <tr>
     <td>Toggle Aux Siren</td>
@@ -257,7 +302,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Press</td>
     <td><span class='glyph'>≻</span></td>
 	<td><span class='glyph'>↟</span></td>
-	<td><span class='glyph'>≻</span></td>
+	<!--<td><span class='glyph'>≻</span></td>-->
   </tr>
   <tr>
 	<td>Manual Siren</td>
@@ -266,7 +311,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Hold</td>
     <td><span class='glyph'>⇒</span></td>
 	<td><span class='glyph'>⇢</span></td>
-	<td><span class='glyph'>⇓</span></td>
+	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
   <tr>
 	<td>Change Tone</td>
@@ -275,7 +320,7 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>Press</td>
     <td><span class='glyph'>⇒</span></td>
 	<td><span class='glyph'>⇢</span></td>
-	<td><span class='glyph'>⇓</span></td>
+	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
    <tr>
     <td>Takedowns</td>
@@ -284,21 +329,20 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
     <td>Toggle Highbeams</td>
     <td><span class='glyph'>≼</span></td>
 	<td><span class='glyph'>↠</span></td>
-	<td><span class='glyph'>≼</span></td>
+	<!--<td><span class='glyph'>≼</span></td>-->
   </tr>
   <tr>
     <td>Air Horn</td>
 	<td>Hold</td>
 	<td><span class='glyph'>Ｅ</span></td>
     <td>Hold</td>
-    <td colspan="3"><span class='glyph' id='smallglyph2'>↺</span></td>
+    <td colspan="2"><span class='glyph' id='smallglyph2'>↺</span></td>
   </tr>
   <tr>
     <td>Primary Siren</td>
 	<td>Press</td>
 	<td><span class='glyph'>１</span></td>
 	<td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -309,14 +353,12 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
     <td>Priority Siren</td>
 	<td>Press</td>
 	<td><span class='glyph'>３</span></td>
 	<td>None</td>
-	<td>-</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
@@ -327,7 +369,6 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td>None</td>
 	<td>-</td>
 	<td>-</td>
-	<td>-</td>
   </tr>
   <tr>
     <td>Aux 2 Siren</td>
@@ -335,6 +376,116 @@ Certian DualShock (PS4) Buttons (Share and Options) will be displayed in parenth
 	<td><span class='glyph'>５</span></td>
 	<td>None</td>
 	<td>-</td>
+	<td>-</td>
+  </tr>
+</table>
+
+### ND Core
+
+<sup>***Requires coresponding item in inventory</sup>
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <th>Function</th>
+	<th>Action</th>
+	<th>Keyboard</th>
+	<th>Controller Action</th>
+	<th>Xbox</th>
+	<th>Playstation</th>
+  </tr>
+  <tr>
+	<td>Open Phone***</td>
+	<td>Press</td>
+	<td><span class='glyph'>⑥</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>Open Inventory</td>
+	<td>Press</td>
+	<td><span class='glyph' id='smallglyph2'>␬</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Open Stash/Glovebox/Trunk</td>
+	<td>Press</td>
+	<td><span class='glyph'>Ｋ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>Activate Interact Cursor</td>
+	<td>Hold</td>
+	<td><span class='glyph' id='smallglyph2'>⑋</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+	<td>Change Tone</td>
+	<td>Press</td>
+	<td><span class='glyph' id='smallglyph1'>.</span><span class='glyph'>/Ｒ</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+   <tr>
+    <td>Takedowns</td>
+	<td>Toggle Highbeams</td>
+	<td><span class='glyph'>Ｈ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Air Horn</td>
+	<td>Hold</td>
+	<td><span class='glyph'>Ｅ</span></td>
+    <td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Primary Siren</td>
+	<td>Press</td>
+	<td><span class='glyph'>１</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Wail Siren</td>
+	<td>Press</td>
+	<td><span class='glyph'>２</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Priority Siren</td>
+	<td>Press</td>
+	<td><span class='glyph'>３</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Aux 1 Siren</td>
+	<td>Press</td>
+	<td><span class='glyph'>４</span></td>
+	<td>None</td>
+	<td>-</td>
+	<td>-</td>
+  </tr>
+  <tr>
+    <td>Aux 2 Siren</td>
+	<td>Press</td>
+	<td><span class='glyph'>５</span></td>
+	<td>None</td>
 	<td>-</td>
 	<td>-</td>
   </tr>
