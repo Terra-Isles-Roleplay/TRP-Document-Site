@@ -1,0 +1,8 @@
+{
+  "label": "Resources",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of resources to help those unfamiliar with our various scripts and resources."
+  }
+}
