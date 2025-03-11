@@ -413,13 +413,26 @@
 .glyph {
     /*display: block;*/
     font-family: promptfont;
-    font-size: 32pt;
+    font-size: 30pt;
     font-style: normal;
     transition: font-size .5s;
 }
 
-table, th, td {
+#smallglyph1 {
+    font-size: 60pt;
+}
+
+#smallglyph2 {
+    font-size: 40pt;
+}
+
+td {
     text-align: center;
-    font-size: 16pt;
+    font-size: 14pt;
+}
+
+th {
+	text-align: center;
+    font-size: 18pt;
 }
 
