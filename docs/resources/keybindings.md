@@ -834,7 +834,7 @@ Changing these keybinds require modification of the `.ini` file located in the `
 	<td>Hold/Move</td>
 	<td><span class='glyph'>ＡＤ/⟺</span></td>
 	<td>Move</td>
-    <td colspan='2'><span class='glyph'>⇄</span></td>
+    <td colspan='2'><span class='glyph' id='smallglyph2'>⇄</span></td>
 	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
   <tr>
@@ -842,7 +842,7 @@ Changing these keybinds require modification of the `.ini` file located in the `
 	<td>Press</td>
 	<td><span class='glyph' >⟼</span></td>
 	<td>Press</td>
-    <td colspan='2'><span class='glyph'>⇲</span></td>
+    <td colspan='2'><span class='glyph' id='smallglyph2'>⇲</span></td>
 	<!--<td><span class='glyph'>⇓</span></td>-->
   </tr>
   <tr>
@@ -890,7 +890,7 @@ Changing these keybinds require modification of the `.ini` file located in the `
 	<td>Double Press</td>
 	<td><span class='glyph'>４</span></td>
 	<td>Double Press</td>
-	<td colspan='2'><span class='glyph'>↺</span></td>
+	<td colspan='2'><span class='glyph' id='smallglyph2'>↺</span></td>
   </tr>
   <tr>
     <td>Spotlight (Emergency Vehicles)</td>
