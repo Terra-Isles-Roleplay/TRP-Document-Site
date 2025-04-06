@@ -1,0 +1,2 @@
+# TRP Types
+This is where you will find information on how to import all TRP documentation types into Visual Studio Code for any TRP script function. [TRP_Core](./trpcore/intro.md) or [TRP_lib](./trplib/intro.md)

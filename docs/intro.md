@@ -1,47 +1,40 @@
----
-sidebar_position: 1
----
+# Welcome to the TRP documentation!
 
-# Tutorial Intro
+[Our Website](https://terraisles.com) [Our Discord](#) [Community Guidelines](#)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Who are we?
 
-## Getting Started
+Terra Isles Roleplay is a FiveM gaming comunity founded on (enterdate).
+Give more details here.
 
-Get started by **creating a new site**.
+## [TRP Hosted Servers](#)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Documention
 
-### What you'll need
+-   [V2.0](#) - Our current production server using ND_Core V1.0
+-   [V3.0](#) - Our new ND_Core V2.0 in development.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## [TRP CADSystem](#)
 
-## Generate a new site
+### Documentation
 
-Generate a new Docusaurus site using the **classic template**.
+-   [V1.0](#) - Our current CAD/MDT system.
+-   [V2.0](#) - Our up and coming updated CAD/MDT system.
 
-The classic template will automatically be added to your project after you run the command:
+## TRP Custom Scripts (Public/Private)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+-   TRP\_Core [Documentation](#) | [Github](#)
+-   TRP\_Lib [Documentation](#) | [Github](#)
+-   TRP\_DMV [Documentation](#) | [Github](#)
+-   TRP\_MDT [Documentation](#) | [Github](#)
+-   TRP\_Dispatch [Documentation](#) | [Github](#)
+-   TRP\_Fines [Documentation](#) | [Github](#)
+-   TRP\_ALPR [Documentation](#) | [Github](#)
+-   TRP\_Postals [Documentation](#) | [Github](#)
+-   TRP\_Menu [Documentation](#) | [Github](#)
+-   TRP\_InteractiveMap [Documentation](#) | [Github](#)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## TRP Forked Scripts
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+-   ND\_Core
+-   ox\_inventory

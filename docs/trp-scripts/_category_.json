@@ -1,0 +1,8 @@
+{
+  "label": "TRP Scripts",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Our interal/public documention for using select public/internal TRP_Core, TRP_lib, etc."
+  }
+}
