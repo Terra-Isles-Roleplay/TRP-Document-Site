@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Welcome to the TRP documentation!
 
 [Our Website](https://terraisles.com) [Our Discord](#) [Community Guidelines](#)

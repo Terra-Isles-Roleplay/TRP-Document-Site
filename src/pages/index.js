@@ -12,15 +12,18 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+        <img id='homepage-logo' src='img/Banner.svg' alt='Terra Isles Roleplay Banner' className={styles.banner} />
+        <br></br>
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
+        <br></br>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            View Terra Isles Documentation
           </Link>
         </div>
       </div>

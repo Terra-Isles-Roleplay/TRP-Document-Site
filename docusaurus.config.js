@@ -45,8 +45,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            '',
+          //editUrl:
+          //  '',
         },
         blog: {
           showReadingTime: true,
@@ -56,8 +56,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            '',
+          //editUrl:
+          //  '',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -74,26 +74,26 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/Discord Banner.png',
       navbar: {
-        title: 'TRP Documentaion',
+        title: 'Terra Isles Roleplay',
         logo: {
           alt: 'TRP Logo',
-          src: 'img/logo.svg',
+          src: 'img/Favicon 2.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          /*{
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
@@ -112,16 +112,28 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://terraisles.com',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/6trknK4',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@terraisles',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/terraisles',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/terraisles',
+              },
+              {
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@terraisles',
               },
             ],
           },
@@ -134,12 +146,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/terra-isles-roleplay',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Terra Isles Roleplay; Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
