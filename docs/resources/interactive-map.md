@@ -8,7 +8,7 @@ The **[Terra Isles Interactive Crime Map](https://map.terra-isles.com/)** is an 
 
 ## The Interface
 
-![TRP Interactive Map](/img/map/map.png)
+![TRP Interactive Map](/img/map/Map.png)
 
 The TRP Interactive Crime Map uses the default Leaflet interface with some modifications by the Department of Development (DoD) Team.
 
