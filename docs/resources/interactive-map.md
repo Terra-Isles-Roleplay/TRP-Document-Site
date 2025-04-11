@@ -10,22 +10,53 @@ The **[Terra Isles Interactive Crime Map](https://map.terra-isles.com/)** is an 
 
 ![TRP Interactive Map](/img/map/map.png)
 
-Build your site **for production**:
+The TRP Interactive Crime Map uses the default Leaflet interface with some modifications by the Department of Development (DoD) Team.
 
-```bash
-npm run build
-```
+Every 5 Minutes (unless [disabled](#Settings)) the active call data will refresh which will show a loading screen until this process is completed. When the loading screen is shown all UI elements are unclickable. This process usually only takes a second or two.
 
-The static files are generated in the `build` folder.
+## Layers
 
-## Deploy your site
+Layers can be accessed in the top-right corner of the interface.
 
-Test your production build locally:
+![Layers Button](/img/map/Navigation4.png)
+![Layers Menu](/img/map/Layers-zoomed.png)
 
-```bash
-npm run serve
-```
+There are two kinds of layers **base maps** and **overlays**.
+By default the following layers on enabled:
+* Hybrid Base Map
+* Postals
+* Road Signs
+* Locations
+* Active Calls
 
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
+In the menu you can enable or disable any overlay you wish and switch to any base map you prefer. 
 
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+<sub>*Note: These settings will reset to the default if you leave or refresh the page.*</sub>
+
+## Legend
+
+To access the icon legend, simply click the<box-icon class='inline' name='list-ul' color='var(--box-icon-color)'></box-icon>icon on the left to show/hide it.
+
+![Legend Button](/img/map/Navigation1.png)
+
+![Legend](/img/map/Legend-zoom.png)
+
+## Settings
+
+To access the settings menu, click the<box-icon class='inline' type='solid' name='cog' color='var(--box-icon-color)'></box-icon>icon to the left to open it.
+
+![Settings Button](/img/map/Navigation2.png)
+
+Once in the settings menu you can view the time left until the next data refresh, enable/disable auto refreshing, select which server to pull data from (*default is **Server 1***), and enable/disable the Coordinate Probe (*to be added in version 1.0.7*).
+
+![Settings](/img/map/Settings-zoomed.png)
+
+## Live Map (CAD)
+
+Dispatchers have access to a different version of the Crime Map which includes current unit locations to aid in dispatching nearby units to a call. 
+
+Dispatchers can access this special version of the Crime Map through **Live Map** button on their CAD System. You will need to login with Discord before you can view the map.
+
+Unit locations is currently only updated every 5 Minutes. *(Subject to change)*
+
+![Active Units Display](/img/map/Units.png)
