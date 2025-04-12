@@ -35,7 +35,7 @@ In the menu you can enable or disable any overlay you wish and switch to any bas
 
 ## Legend
 
-To access the icon legend, simply click the<box-icon class='inline' name='list-ul' color='var(--box-icon-color)'></box-icon>icon on the left to show/hide it.
+To access the icon legend, simply click the<i class='inline bx bx-list-ul' color='var(--box-icon-color)'></i>icon on the left to show/hide it.
 
 ![Legend Button](/img/map/Navigation1.png)
 
@@ -43,7 +43,7 @@ To access the icon legend, simply click the<box-icon class='inline' name='list-u
 
 ## Settings
 
-To access the settings menu, click the<box-icon class='inline' type='solid' name='cog' color='var(--box-icon-color)'></box-icon>icon to the left to open it.
+To access the settings menu, click the<i class='inline bx bxs-cog' color='var(--box-icon-color)'></i>icon to the left to open it.
 
 ![Settings Button](/img/map/Navigation2.png)
 

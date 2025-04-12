@@ -19,7 +19,7 @@
   --box-icon-color: #000;
 }
 
-box-icon.inline {
+.inline {
     display: inline-block;
     vertical-align: bottom;
     margin-right: 5px;
