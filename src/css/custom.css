@@ -60,6 +60,11 @@ box-icon.inline {
   --box-icon-color: #fff;
 }
 
+@import "boxicons.css";
+@import "boxicons.min.css";
+@import "animations.css";
+@import "transformations.css";
+
 @font-face{font-family:'promptfont'; src:url('../../static/fonts/promptfont.ttf');}
 .pf{font-family:promptfont;font-style:normal;}
 .pf-icon-exchange:before{content:"\2194"}
