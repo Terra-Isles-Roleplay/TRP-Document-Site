@@ -19,17 +19,6 @@
   --box-icon-color: #000;
 }
 
-.inline {
-    display: inline-block;
-    vertical-align: bottom;
-    margin-right: 5px;
-    margin-left: 5px;
-}
-
-.center-image {
-    max-height: 400px;
-}
-
 #homepage-logo {
     width: 100%;
     height: auto;
